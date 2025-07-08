@@ -21,8 +21,8 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url:  /images/logo.png
+      altText: Türk Yıldızı Birliği Logosu
     styles:
       self:
         height: auto
